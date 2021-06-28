@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **SwingCosmic/SwingCosmic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+> DD makes the world peace. Coding makes it faster.
+
+> 软件和数据也是一种资产
+
+> 不要内卷，开放协作才有未来
+
+🔭 I’m currently working on the `Open Music Game Chart`.
+
+📫 Contract: 
+ - QQ: 1691528941
+ - Twitter: @SwingCosmic
