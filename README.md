@@ -30,3 +30,6 @@ Here are some ideas to get you started:
 📫 Contract: 
  - QQ: 1691528941
  - Twitter: @SwingCosmic
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SwingCosmic)](https://github.com/SwingCosmic/github-readme-stats)
+
